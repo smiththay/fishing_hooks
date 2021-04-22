@@ -13,7 +13,6 @@ function Product(props) {
         <div>
             {id}
 
-
             <h1> {item.name}</h1>
             <p>{item.description}</p>
             <p>{item.type}</p>
